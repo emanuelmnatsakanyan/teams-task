@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teams-task/static/css/main.b76d6851.css",
+    "main.js": "/teams-task/static/js/main.20da886a.js",
+    "index.html": "/teams-task/index.html",
+    "main.b76d6851.css.map": "/teams-task/static/css/main.b76d6851.css.map",
+    "main.20da886a.js.map": "/teams-task/static/js/main.20da886a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76d6851.css",
+    "static/js/main.20da886a.js"
+  ]
+}
